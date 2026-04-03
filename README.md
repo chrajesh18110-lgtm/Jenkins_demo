@@ -1,1 +1,1 @@
-echo "Hello Jenkins" > test.txt
+echo "Hello Jenkins"
